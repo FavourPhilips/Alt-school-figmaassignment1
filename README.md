@@ -1,6 +1,10 @@
 
-    <title>FIGMA DOCUMENT</title>
-    <link rel="stylesheet" href="Figma1.css" />
+   
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>FIGMA DOCUMENT</title>
 
     <style>
       body {
