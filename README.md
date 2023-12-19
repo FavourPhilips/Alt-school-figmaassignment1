@@ -1,7 +1,3 @@
-<h1> The first Figma assignment </h1>
-
-
-
 
     <title>FIGMA DOCUMENT</title>
     <link rel="stylesheet" href="Figma1.css" />
