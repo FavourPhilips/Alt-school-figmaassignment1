@@ -1,9 +1,8 @@
 <h1> The first Figma assignment </h1>
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
     <title>FIGMA DOCUMENT</title>
     <link rel="stylesheet" href="Figma1.css" />
 
